@@ -111,6 +111,7 @@ env.bak/
 venv.bak/
 node_modules/
 .node_modules
+.idea
 
 # Spyder project settings
 .spyderproject
