@@ -1,5 +1,5 @@
 First part of mobile automation practice.
 
-+Launch app
-+Send keys to one field
-+Add allure report on failure for all tests
+1. Launch app
+2. Send keys to one field
+3. Add allure report on failure for all tests
